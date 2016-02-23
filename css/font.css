@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu";
   font-style: normal;
   font-weight: 400;
   src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v9/sDGTilo5QRsfWu6Yc11AXg.woff2) format('woff2');
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu"";
   font-style: normal;
   font-weight: 700;
   src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url(https://fonts.gstatic.com/s/ubuntu/v9/0ihfXUL2emPh0ROJezvraFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu"";
   font-style: italic;
   font-weight: 400;
   src: local('Ubuntu Italic'), local('Ubuntu-Italic'), url(https://fonts.gstatic.com/s/ubuntu/v9/WB6rgjTg_oRfj6mlXZJbb_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-  font-family: 'Ubuntu';
+  font-family: "Ubuntu"";
   font-style: italic;
   font-weight: 700;
   src: local('Ubuntu Bold Italic'), local('Ubuntu-BoldItalic'), url(https://fonts.gstatic.com/s/ubuntu/v9/OMD20Sg9RTs7sUORCEN-7Y4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
