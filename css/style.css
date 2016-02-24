@@ -1,9 +1,9 @@
-h1.title {
+.title {
     font-family: "Ubuntu";
     color: darkblue;
 }
 
-h2.info {
+.info {
     font-family: "Ubuntu";
     color: red;
 }
