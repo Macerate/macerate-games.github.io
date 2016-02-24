@@ -11,3 +11,9 @@
 html {
     background: skyblue;
 }
+
+.slogan {
+    font-family: "Ubuntu";
+    font-size: 18px;
+    color: black;
+}
