@@ -1,10 +1,11 @@
 h1.title {
     font-family: "Ubuntu";
+    color: darkblue;
 }
 
 h2.info {
     font-family: "Ubuntu";
-    color: ;
+    color: red;
 }
 
 html {
