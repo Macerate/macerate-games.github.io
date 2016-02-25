@@ -1,3 +1,7 @@
+html {
+    background: "black";
+}
+
 .title {
     font-family: "Ubuntu";
     color: darkblue;
@@ -6,10 +10,6 @@
 .info {
     font-family: "Ubuntu";
     color: blue;
-}
-
-html {
-    background: "black";
 }
 
 .slogan {
