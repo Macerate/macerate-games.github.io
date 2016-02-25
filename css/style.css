@@ -1,3 +1,7 @@
+html {
+    background-color: "black";
+}
+
 .title {
     font-family: "Ubuntu";
     color: darkblue;
@@ -12,8 +16,4 @@
     font-family: "Ubuntu";
     font-size: 12px;
     color: white;
-}
-
-html {
-    background: "black";
 }
