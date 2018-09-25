@@ -18,6 +18,10 @@
     float:right;
 }
 
+.center{
+    float:center;
+}
+
 .left{
     float:left;
 }
