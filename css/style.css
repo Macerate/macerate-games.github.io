@@ -1,17 +1,17 @@
 .title {
     font-family: "Ubuntu";
-    color: darkblue;
+    color: DarkBlue;
 }
 
 .info {
     font-family: "Ubuntu";
-    color: red;
+    color: SkyBlue;
 }
 
 .slogan {
     font-family: "Ubuntu";
-    font-size: 14px;
-    color: lightblue;
+    font-size: 18px;
+    color: SkyBlue;
 }
 
 .right{
